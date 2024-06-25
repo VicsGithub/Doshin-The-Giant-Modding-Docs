@@ -11,7 +11,7 @@ matrix data.
 * `IMAP` seems to contain the actual GEN data of maps (e.g. position and rotation of objects).
 
 # Editing Maps
-Currently, there is no known way of editing maps. Hex edits have been tried, but they don't appear to have worked.
+Currently, there is no known way of editing maps. Hex edits have been tried, but they don't appear to have worked and the map
+format has not been cracked.
 
-VicsGithub (the owner of this repository) is currently working on a tool for editing maps called "Kyojin Studio", it will be released
-after the map format is cracked.
+VicsGithub (the owner of this repository) is currently working on a tool for editing maps called "Kyojin Studio".
