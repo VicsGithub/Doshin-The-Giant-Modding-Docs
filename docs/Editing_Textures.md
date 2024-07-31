@@ -6,8 +6,8 @@ All of the game's textures are in the TPL file format. **TPL** files (**T**extur
 
 ## File Format
 A TPL file consists of:
-* File header
-* Image offset table
+* A file header
+* An image offset table
 * One or more images
 
 Each image contains:
