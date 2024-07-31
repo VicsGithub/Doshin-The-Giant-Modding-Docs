@@ -18,3 +18,5 @@ Go to any of these documents next.<br>
 [Editing Maps](Editing_Maps.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For editing maps.<br>
 [Editing Models](Editing_Models.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For editing models.<br>
 [Editing Textures](Editing_Textures.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For editing textures.
+
+[Directory Tree (PAL)](Misc/Directory_Tree_(PAL).txt)
