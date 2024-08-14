@@ -1,0 +1,16 @@
+# Doshin the Giant 1 (N64) Modding
+
+## Modding Notes
+Documentation for the inner workings of the game.
+
+TBA
+
+## Modding Tools
+The tools needed to modify Doshin the Giant 1 and tutorials on how to use them.
+
+TBA
+
+## Memory Maps
+ROM and RAM memory maps and function descriptions for the Doshin the Giant 1 ROM.
+
+TBA
