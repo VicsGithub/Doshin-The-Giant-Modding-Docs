@@ -12,5 +12,4 @@ TBA
 
 ## Memory Maps
 ROM and RAM memory maps and function descriptions for the Doshin the Giant 1 ROM.
-
-TBA
+* [Doshin the Giant 1 ROM Memory Map](Doshin_the_Giant_1_(N64)/ROM_Memory_Map.md)
