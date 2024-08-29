@@ -3,7 +3,7 @@
 ## Modding Notes
 Documentation for the inner workings of the game.
 
-TBA
+* [Textures](Doshin_the_Giant_(GC)/Textures.md)
 
 ## Modding Tools
 Tools that can be used to mod Doshin the Giant and tutorials on how to use said tools.
