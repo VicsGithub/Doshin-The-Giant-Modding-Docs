@@ -1,7 +1,7 @@
 # Doshin the Giant Modding Tools
 ## Kyojin Studio
-TBA
-<!--- A map editor for Doshin the Giant by VicsGithub, the owner of this repository. Currently in development. -->
+A map editor for the game by VicsGithub, the owner of this repository. Currently in development.
+
 ## Amuse
 A MIDI and SFX sequencer, designed for compatibility with the game's primary audio format: MusyX audio groups.
 
@@ -9,7 +9,9 @@ Download it [here](https://github.com/AxioDL/amuse/releases/download/v1.15/amuse
 ## charPipe Blend Plugin
 A Blender plugin used for exporting models in the game's format. Currently in development.
 ## BrawlBox
-TBA
+A now discontinued suite of tools designed to create and edit various file formats used by the GameCube and Wii, TPL being one of them.
+
+Download it [here](https://github.com/libertyernie/brawltools/releases/download/v0.78_h1/BrawlBox.v0.78.Hotfix.1.exe).
 ## Wii.cs Tools
 A now discontinued suite of tools that can convert various file formats used by the GameCube and Wii, TPL being one of them. Said subtool is named TplMii.
 
