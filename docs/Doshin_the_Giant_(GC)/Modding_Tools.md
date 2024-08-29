@@ -1,4 +1,3 @@
-# Doshin the Giant Modding Tools
 ## Kyojin Studio
 A map editor for the game by VicsGithub, the owner of this repository. Currently in development.
 
