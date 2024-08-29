@@ -22,4 +22,6 @@ TBA
 ### Using BrawlBox
 TBA
 ### Using Wii.cs Tools and TplMii
-TBA
+TplMii is more limited when it comes to editing TPL files. It can only convert singular images to TPL files, and only suppports the RGBA8, RGB565 and RGB5A3 texture formats (ordered as High, Moderate and Low Quality). It can also convert TPL files to images.
+
+To convert an image to TPL, click on the small .. button next to the Image textbox and select an image, then click on the big Convert button. You can modify the TPL's resulting filename and path in the Tpl textbox.
