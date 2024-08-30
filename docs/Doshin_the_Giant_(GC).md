@@ -2,6 +2,7 @@
 ## Modding Notes
 Documentation for the inner workings of the game.
 
+* [Character Pipeline File Formats](Doshin_the_Giant_(GC)/Character_Pipeline_File_Formats.md)
 * [Textures](Doshin_the_Giant_(GC)/Textures.md)
 
 ## Root Folder Structure
