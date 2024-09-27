@@ -10,7 +10,7 @@ The textures inside Doshin the Giant's filesystem are contained within <code>roo
 * IA8
 * RGB565
 * RGB5A3
-* RGBA32
+* RGBA32/RGBA8
 * C4/CI4
 * C8/CI8
 * C14X2/CI14x2
