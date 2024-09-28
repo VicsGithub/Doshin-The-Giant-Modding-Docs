@@ -19,7 +19,7 @@ The textures inside Doshin the Giant's filesystem are contained within <code>roo
 TBA
 
 ## Editing Textures
-### Using BrawlBox
+### Using BrawlBox/BrawlCrate
 TBA
 ### Using Wii.cs Tools and TplMii
 TplMii is more limited when it comes to editing TPL files. It can only convert singular images to TPL files, and only suppports the RGBA8, RGB565 and RGB5A3 texture formats (ordered as High, Moderate and Low Quality). It can also convert TPL files to images.
