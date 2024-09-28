@@ -2,6 +2,10 @@
 A map editor for the game by VicsGithub, the owner of this repository. Currently in development.
 ## charPipe Blend Plugin
 A Blender plugin used for exporting models in the game's format. Currently in development.
+## BrawlCrate
+A modernized and imporved fork of BrawlBox with a variety of features aiming to improve ease of modding.
+
+Download it [here](https://github.com/soopercool101/BrawlCrate/releases).
 ## BrawlBox
 A now discontinued suite of tools designed to create and edit various file formats used by the GameCube and Wii, TPL being one of them.
 
