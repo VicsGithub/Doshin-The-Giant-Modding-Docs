@@ -17,10 +17,9 @@ The textures inside Doshin the Giant's filesystem are contained within <code>roo
 * CMPR
 ## Texture List
 TBA
-
 ## Editing Textures
 ### Using BrawlBox/BrawlCrate
-TBA
+Open up BrawlBox or BrawlCrate and click on File, then click on Open. Alternatively, you can do CTRL+O. Then select and open your TPL file. In the tool, the TPL's images will appear as a list on a hierarchy tree on the left. The images will be order as Texture0, Texture1, Texture2 and so on. When selecting an image, it will appear on the left side on the bottom. Above it are it's properties. They can be modified. There are two arrow buttons that control the image's level of detail (LOD). Right click on the image in the tree view and click on Replace (CTRL-R). Select a new image and click on Open. You will be brought to a screen where you can select the new image's format, edit it's MIP levels, edit the image's palletes (only if it's in a Color Indexed (CI) image format), edit it's dimensions and other things. Click on Okay to replace the image. Remember to save the file by doing CTRL+S.
 ### Using Wii.cs Tools and TplMii
 TplMii is more limited when it comes to editing TPL files. It can only convert singular images to TPL files, and only suppports the RGBA8, RGB565 and RGB5A3 texture formats (ordered as High, Moderate and Low Quality). It can also convert TPL files to images.
 
